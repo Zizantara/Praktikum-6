@@ -47,3 +47,11 @@ source code ini berfungsi untuk menghapus data yang sudah tersimpan, Berikut Out
 source code ini berfungsi untuk merubah data yang sudah tersimpan, Berikut Output yang dihasilkan :
 
 <img src="o4.png">
+
+### Menu
+
+<img src="c5.png">
+
+Source code ini berfungsi untuk menampilkan pilihan menu dari opsi 1 hingga 5, ketika memilih opsi 5 maka program akan berhenti seperti berikut
+
+<img src="o5.png">
